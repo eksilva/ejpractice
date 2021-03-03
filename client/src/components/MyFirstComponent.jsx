@@ -3,7 +3,9 @@ import React from 'react'
 const MyFirstComponent = () => {
   return (
     <div>
-      Baby's first component
+      <header>Baby's first component</header>
+      <input type="text"></input><br/>
+      <input type="radio"></input>
     </div>
   )
 }
